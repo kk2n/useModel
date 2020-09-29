@@ -1,6 +1,6 @@
 {
   "name": "s-model",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react hooks model",
   "main": "index.js",
   "repository": {
@@ -10,9 +10,7 @@
   "keywords": [
     "env,usemodel,react,model,core"
   ],
-  "dependencies": {
-    "lodash": "^4.17.20"
-  },
+  "dependencies": {},
   "author": "likuan",
   "license": "ISC"
 }
