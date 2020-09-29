@@ -7,9 +7,9 @@
 # 安装
 
 ```
-npm install ymcore 
+npm install s-model 
 //或
-yarn add ymcore
+yarn add s-model
 ```
 
 # 基本用法
