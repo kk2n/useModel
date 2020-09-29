@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+oldversion=$(grep 'version' package.json)
+
+echo "您当前的版本：$oldversion"
 echo "请输入你的新发布的版本号(ex:1.0.0)："
 
 read version
