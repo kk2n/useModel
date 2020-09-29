@@ -1,5 +1,5 @@
 {
-  "name": "usemodel",
+  "name": "s-model",
   "version": "1.0.0",
   "description": "react hooks model",
   "main": "index.js",
@@ -10,6 +10,9 @@
   "keywords": [
     "env,usemodel,react,model,core"
   ],
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
   "author": "likuan",
   "license": "ISC"
 }
